@@ -1,2 +1,5 @@
-p {position: right;
+.navbar {
+    position: fixed;
+    left: 15px;
+    top: 10vh;
 }
