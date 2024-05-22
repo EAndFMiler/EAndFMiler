@@ -52,4 +52,6 @@ body, h1, p, ul {
     color: #e1ff00;
     text-decoration: none;
   }
-  .text {position:absolute;}
+  .text {position:absolute;
+  top:10%;
+font-family: Arial;}
